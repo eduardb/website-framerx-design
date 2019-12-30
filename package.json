@@ -1,0 +1,24 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.9.2"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.2",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "48b11544-ffce-4d4c-9cf8-0b171be771c1"
+	},
+	"author": "Eduard-Cristian Bolos",
+	"dependencies": {
+		"@framer/benjamin.icon-generator": "^1.8.0",
+		"@framer/google.android-home": "^1.0.0",
+		"@framer/google.material-design": "^1.0.0",
+		"@framer/graz.android-kit": "^1.1.0",
+		"@framer/krijn.loading-indicators": "^1.4.0"
+	}
+}
